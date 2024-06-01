@@ -15,14 +15,14 @@
      <img src="https://img.shields.io/badge/CSS-royalblue?style=for-the-badge&logo=css3&logoColor=white" alt="">
 </div>
 
-<h3>Language</h3>
+<h3>Languages</h3>
 <div>
      <img src="https://img.shields.io/badge/Python-main-black?labelColor=steelblue&style=for-the-badge&logo=python&logoColor=white" alt="">
      <img src="https://img.shields.io/badge/JavaScript-familiar-black?labelColor=yellow&style=for-the-badge&logo=JavaScript&logoColor=white" alt="">
      <img src="https://img.shields.io/badge/-familiar-black?labelColor=skyblue&style=for-the-badge&logo=c&logoColor=white" alt="">
 </div>
 
-<h3>Database</h3>
+<h3>Databases</h3>
 <div>
      <img src="https://img.shields.io/badge/SQLite-lightblue?style=for-the-badge&logo=sqlite&logoColor=white" alt="">
      <img src="https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql&logoColor=white" alt="">
@@ -30,7 +30,7 @@
      <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" alt="">
 </div>
 
-<h3>Operating System</h3>
+<h3>Operating Systems</h3>
 <div>
      <img src="https://img.shields.io/badge/Ubuntu-purple?style=for-the-badge&logo=ubuntu&logoColor=white" alt="">
      <img src="https://img.shields.io/badge/Fedora-steelblue?style=for-the-badge&logo=fedora&logoColor=white" alt="">
