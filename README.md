@@ -15,7 +15,7 @@
      <img src="https://img.shields.io/badge/CSS-royalblue?style=for-the-badge&logo=css3&logoColor=white" alt="">
 </div>
 
-<h3>Languages</h3>
+<h3>Language</h3>
 <div>
      <img src="https://img.shields.io/badge/Python-main-black?labelColor=steelblue&style=for-the-badge&logo=python&logoColor=white" alt="">
      <img src="https://img.shields.io/badge/JavaScript-familiar-black?labelColor=yellow&style=for-the-badge&logo=JavaScript&logoColor=white" alt="">
