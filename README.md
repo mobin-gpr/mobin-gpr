@@ -4,7 +4,7 @@
 
 <h3>Back-end</h3>
 <div>
-     <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white" alt="">
+     <img src="https://img.shields.io/badge/Django-darkolivegreen?style=for-the-badge&logo=django&logoColor=white" alt="">
      <img src="https://img.shields.io/badge/Django%20REST%20API-C70039?style=for-the-badge&logo=django&logoColor=white" alt="">
      <img src="https://img.shields.io/badge/celery-lightgreen?style=for-the-badge&logo=celery&logoColor=white" alt="">
      <img src="https://img.shields.io/badge/fastapi-cadetblue?style=for-the-badge&logo=fastapi&logoColor=white" alt="">
