@@ -28,6 +28,8 @@
      <img src="https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql&logoColor=white" alt="">
      <img src="https://img.shields.io/badge/PostgreSQL-midnightblue?style=for-the-badge&logo=postgresql&logoColor=white" alt="">
      <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" alt="">
+     <img src="https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white)" alt="">
+</div>
 </div>
 
 <h3>Operating Systems</h3>
