@@ -24,16 +24,16 @@ class BackendDeveloper:
         self.education = "Software Engineering"
         self.code = ["Python", "JavaScript", "C", "SQL", "Bash"]
         self.interests = {
-            "primary": ["Web Development", "Backend Architecture"],
-            "exploring": ["AI/ML", "Networking", "System Design"],
+            "primary": ["Backend", "IoT", "DevOps"],
+            "exploring": ["AI/ML", "System Design", "Cloud Native"],
             "os_enthusiast": True
         }
     
     def current_status(self):
         return {
-            "working_on": "Scalable Backend Systems",
+            "working_on": "Backend, IoT & DevOps",
             "available_for": "Open Source Collaboration",
-            "passion": "Building robust APIs & microservices"
+            "passion": "Building scalable systems & IoT solutions"
         }
 ```
 
@@ -56,20 +56,31 @@ class BackendDeveloper:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 ### Message Brokers & APIs
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![EMQX](https://img.shields.io/badge/EMQX-00C7B3?style=for-the-badge&logo=emqx&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 ### Security & Testing
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
@@ -116,10 +127,10 @@ class BackendDeveloper:
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mobin-gpr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobin-gpr&layout=compact&langs_count=8&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mobin-gpr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobin-gpr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -127,32 +138,11 @@ class BackendDeveloper:
 
 ## 🎯 What I'm Up To
 
-- 🔭 **Currently Working On:** Building scalable backend systems and RESTful APIs
+- 🔭 **Currently Working On:** Backend, IoT & DevOps
 - 🌱 **Learning:** System Design, Event-Driven Architecture, and Cloud Technologies
 - 👯 **Looking to Collaborate:** Open-source backend projects
 - 💡 **Exploring:** GraphQL, gRPC, and Message Queue systems
 - 📚 **Focus Areas:** Distributed Systems, API Design, and Database Optimization
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mobin-gpr&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![FoxWeb API](https://github-readme-stats.vercel.app/api/pin/?username=mobin-gpr&repo=fox-web-api&theme=radical)](https://github.com/mobin-gpr/fox-web-api)
-[![Django REST Auth JWT](https://github-readme-stats.vercel.app/api/pin/?username=mobin-gpr&repo=django-rest-auth-jwt&theme=radical)](https://github.com/mobin-gpr/django-rest-auth-jwt)
-
-</div>
 
 ---
 
